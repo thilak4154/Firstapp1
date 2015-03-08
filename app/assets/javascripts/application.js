@@ -15,5 +15,8 @@
 //= require turbolinks
 //= require_tree .
 $(".check").click(function(){
- alert("checking")
+alert('done')
+})
+$(".check").click(function(){
+alert('done')
 })
